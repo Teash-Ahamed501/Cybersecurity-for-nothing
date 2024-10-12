@@ -1,0 +1,51 @@
+Step 1: Understanding Cybersecurity
+Key Knowledge:
+Cybersecurity is the practice of protecting systems, networks, and data from digital attacks. The main goal 
+of cybersecurity is to ensure the CIA Triad:
+
+Confidentiality: Keeping sensitive data hidden from unauthorized users.
+Integrity: Ensuring data is accurate and has not been tampered with.
+Availability: Making sure systems and data are accessible to authorized users when needed.
+Cybersecurity involves both offensive security (ethical hacking) and defensive security (protecting systems). Cybersecurity 
+professionals defend against a variety of threats, which can range from malicious software (malware) to more sophisticated 
+attacks like social engineering or phishing.
+
+
+Task:
+Research the following three common cyber threats and provide real-world examples for each:
+
+Malware: Programs designed to damage or disrupt systems.
+Phishing: An attempt to trick people into revealing sensitive information.
+Social Engineering: Manipulating individuals to breach security by deceiving them.
+Take your time, and feel free to ask any questions if needed. Let me know when you're done!
+
+
+What is difference between Social Engineering and phishing?
+
+-----
+Social Engineering:
+Social engineering is a broader category of attacks where hackers manipulate or trick people into giving up confidential 
+information or performing actions that compromise security. The key idea is exploiting human psychology rather than directly 
+attacking systems. Social engineering attacks can take many forms, such as:
+
+Impersonation: Pretending to be someone trustworthy (e.g., a tech support employee) to get sensitive information.
+Baiting: Leaving a USB drive loaded with malware in a public place, hoping someone will pick it up and plug it into their 
+computer.
+
+-----
+Phishing:
+Phishing is a specific type of social engineering attack. It usually involves sending fake emails, messages, or websites 
+that appear to be from legitimate sources (like a bank or company) to trick people into providing sensitive information 
+like passwords, credit card numbers, or personal details.
+
+Phishing typically uses email, SMS, or websites to steal information.
+An example of phishing would be an email that looks like it’s from PayPal, asking you to "verify your account" and leading 
+you to a fake website where you enter your login details.
+
+----
+Difference:
+Scope: Social engineering is a broad category that includes many types of psychological manipulation (including 
+phishing). Phishing is one specific tactic under that umbrella.
+
+Method: Phishing often relies on electronic communication (emails, websites, etc.), while social engineering can 
+involve face-to-face interactions or other non-digital methods like phone calls.
