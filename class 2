@@ -1,0 +1,28 @@
+Now that you've understood the basics of cybersecurity and explored key threats, let's move to the next topic.
+
+Step 2: Basic Terminology in Cybersecurity
+
+
+Key Knowledge:
+In cybersecurity, understanding common terms and concepts is essential. Here are some important ones you’ll encounter frequently:
+
+Threats: Anything that can cause potential harm to systems or data. Examples include malware, hackers, and even natural disasters.
+
+Vulnerabilities: Weaknesses in a system that can be exploited by a threat. For example, an unpatched software bug that allows attackers to gain unauthorized access.
+
+Exploits: Specific methods or tools used to take advantage of vulnerabilities. For example, using a script that exploits a buffer overflow vulnerability in a program.
+
+Firewall: A security system that monitors and controls incoming and outgoing network traffic. Firewalls help block unauthorized access to or from private networks.
+
+Intrusion Detection System (IDS) and Intrusion Prevention System (IPS):
+
+  IDS monitors network traffic for suspicious activity and alerts administrators.
+  IPS goes one step further by blocking or preventing detected threats.
+
+Encryption: The process of converting data into a coded format to protect it from unauthorized access. Only those with the right decryption key can read the data.
+
+Common Network Protocols:
+
+  TCP/IP: The foundational protocol of the internet, which governs how data is transmitted over networks.
+  HTTP and HTTPS: Protocols used to transmit data between a web browser and a website (HTTPS is encrypted).
+  DNS: The system that translates domain names (like google.com) into IP addresses.
